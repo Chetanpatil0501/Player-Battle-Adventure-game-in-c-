@@ -1,0 +1,4 @@
+﻿  battleadventuregame.cpp
+C:\Users\CP EDITING\source\repos\battleadventuregame\battleadventuregame\battleadventuregame.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\CP EDITING\source\repos\battleadventuregame\battleadventuregame\battleadventuregame.cpp(227): warning C4715: 'selectPlayer': not all control paths return a value
+  battleadventuregame.vcxproj -> C:\Users\CP EDITING\source\repos\battleadventuregame\Debug\battleadventuregame.exe

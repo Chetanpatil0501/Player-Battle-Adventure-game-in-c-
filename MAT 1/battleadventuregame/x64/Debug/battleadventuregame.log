@@ -1,0 +1,3 @@
+﻿  battleadventuregame.cpp
+A:\GitHub projects\MAT 1\battleadventuregame\battleadventuregame.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  battleadventuregame.vcxproj -> A:\GitHub projects\MAT 1\x64\Debug\battleadventuregame.exe
